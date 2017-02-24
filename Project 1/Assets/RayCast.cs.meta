@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b65013cd7d45b784fba2b6c29ed2e0db
+timeCreated: 1484988785
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - cannonball: {instanceID: 0}
+  - cannonbody: {instanceID: 0}
+  - line: {instanceID: 0}
+  - circularSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
